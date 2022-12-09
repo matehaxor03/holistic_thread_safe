@@ -1,0 +1,5 @@
+.DS_Store
+holistic_thread_safe
+holistic_db_config*
+server.crt
+server.key
